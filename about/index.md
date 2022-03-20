@@ -1,6 +1,6 @@
 ## About this site
 
-[eaglercraft.github.io] (eaglercraft.github.io) is a website intended to make it easy for people to play eaglercraft online. However, if you cannot access this website due to a firewall (i.e., school firewall), then feel free to download the file from the official [github page] (https://github.com/LAX1DUDE/eaglercraft/tree/main/stable-download). The html file marked "Offline_Download_Version.html" is the official download for the game client, and download "stable-download.zip" to host a server. For more information about hosting a server, watch [this video] (https://youtube.com/watch?v=Zsnv8YskjMA) by [LAX1DUDE] (https://github.com/LAX1DUDE).
+[eaglercraft.github.io](eaglercraft.github.io) is a website intended to make it easy for people to play eaglercraft online. However, if you cannot access this website due to a firewall (i.e., school firewall), then feel free to download the file from the official [github page](https://github.com/LAX1DUDE/eaglercraft/tree/main/stable-download). The html file marked "Offline_Download_Version.html" is the official download for the game client, and download "stable-download.zip" to host a server. For more information about hosting a server, watch [this video](https://youtube.com/watch?v=Zsnv8YskjMA) by [LAX1DUDE](https://github.com/LAX1DUDE).
 
 ## Why this even exists
 

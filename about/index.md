@@ -8,7 +8,7 @@ even though github.io is blocked by many school firewalls, I wanted to provide a
 
 ## List of servers
 
-Now, the moment you start eaglercraft, your gonna realize there is no singleplayer option. This means that you must play on a server. However, after checking all of your favorite server ips, you realize that none of them work. Fortunely, you can visit [this forum] (https://g.eags.us/eaglercraft/servers/viewforum.php?f=3) to look at some of the servers people have hosted. Here are some of my personal favorites:
+Now, the moment you start eaglercraft, your gonna realize there is no singleplayer option. This means that you must play on a server. However, after checking all of your favorite server ips, you realize that none of them work. Fortunely, you can visit [this forum](https://g.eags.us/eaglercraft/servers/viewforum.php?f=3) to look at some of the servers people have hosted. Here are some of my personal favorites:
 
 wss://mc.primitt.tk/survival
 wss://mc.b2server.tk
